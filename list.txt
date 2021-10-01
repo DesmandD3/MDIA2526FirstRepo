@@ -5,3 +5,8 @@ jam
 steak
 milk 
 eggs
+
+Supplies
+tape 
+pencil
+glue
